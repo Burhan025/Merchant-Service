@@ -1,2 +1,2 @@
 # Merchant-Service
-In this project, I have customized a WordPress theme by enqueuing custom styles, adding meta tags, preloading images, and optimizing scripts. Modified WooCommerce image sizes, pricing display, and product tabs. Also enhanced AMP pages, removed unused assets, and optimized performance with custom functions.
+In this project, I customized a WordPress theme with custom styles, meta tags, and image preloading. I optimized scripts, modified WooCommerce image sizes, pricing, and product tabs, and added custom layouts. Customized variation pricing, displayed minimum prices, and ensured correct price display with sale messages.
